@@ -1,0 +1,28 @@
+# -*- conf -*-
+# Sageveil
+
+[colors-dark]
+background=101310
+foreground=A8AFA6
+
+regular0=101310
+regular1=9A6B6B
+regular2=959C70
+regular3=A69966
+regular4=8A8493
+regular5=876f7f
+regular6=7F9476
+regular7=A8AFA6
+
+bright0=262F26
+bright1=B08585
+bright2=9C9F7F
+bright3=C6B67E
+bright4=A39DAC
+bright5=947e8d
+bright6=9AAB90
+bright7=c3cdc0
+
+selection-foreground=A8AFA6
+selection-background=241d21
+cursor=101310 A8AFA6
